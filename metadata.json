@@ -1,0 +1,8 @@
+{
+  "name": "PRO GEO – Projekt robót geologicznych (PRG)",
+  "description": "Generator projektu robót geologicznych (PRG): współrzędne WGS-84 / PUWG 1992 / PUWG 2000, dane administracyjne GUGiK, fizjogeografia, obszary chronione GDOŚ, SOPO, JCWPd/GZWP, opis geologiczny SMGP oraz załączniki mapowe A4/A3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
